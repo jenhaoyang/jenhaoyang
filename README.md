@@ -6,6 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [三個重要工具結合Python和C++](https://jenhaoyang.github.io//posts/%E4%B8%89%E5%80%8B%E9%87%8D%E8%A6%81%E5%B7%A5%E5%85%B7%E7%B5%90%E5%90%88python%E5%92%8Cc/)
+- [CMake教學系列一](https://jenhaoyang.github.io//posts/cmake%E6%95%99%E5%AD%B8%E7%B3%BB%E5%88%97%E4%B8%80/)
+- [Python的class method使用情境](https://jenhaoyang.github.io//posts/python%E7%9A%84class-method%E4%BD%BF%E7%94%A8%E6%83%85%E5%A2%83/)
+- [Python呼叫C++系列&lpar;一&rpar;環境設定](https://jenhaoyang.github.io//posts/Python%E5%91%BC%E5%8F%ABCpp%E7%B3%BB%E5%88%97%E4%B8%80%E7%92%B0%E5%A2%83%E8%A8%AD%E5%AE%9A/)
 <!-- BLOG-POST-LIST:END -->
 
 
