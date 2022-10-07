@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [好用的git log alias](https://jenhaoyang.github.io//posts/%E5%A5%BD%E7%94%A8%E7%9A%84git-log-alias/)
+- [Python呼叫C++系列&lpar;二&rpar;scikit-build](https://jenhaoyang.github.io//posts/python%E5%91%BC%E5%8F%ABc-%E7%B3%BB%E5%88%97-%E4%BA%8C-scikit-build/)
 - [tar gz 解壓縮](https://jenhaoyang.github.io//posts/tar-gz-%E8%A7%A3%E5%A3%93%E7%B8%AE/)
 - [Linux crontab 自動化例行性工作](https://jenhaoyang.github.io//posts/linux-crontab-%E8%87%AA%E5%8B%95%E5%8C%96%E4%BE%8B%E8%A1%8C%E6%80%A7%E5%B7%A5%E4%BD%9C/)
-- [三個重要工具結合Python和C++](https://jenhaoyang.github.io//posts/%E4%B8%89%E5%80%8B%E9%87%8D%E8%A6%81%E5%B7%A5%E5%85%B7%E7%B5%90%E5%90%88python%E5%92%8Cc/)
-- [CMake教學系列一 建立一個簡單的c++程式](https://jenhaoyang.github.io//posts/cmake%E6%95%99%E5%AD%B8%E7%B3%BB%E5%88%97%E4%B8%80/)
 <!-- BLOG-POST-LIST:END -->
 
 
