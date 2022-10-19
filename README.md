@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [VSCode設定X11 Server顯示遠端GUI](https://jenhaoyang.github.io//posts/vscode%E8%A8%AD%E5%AE%9Ax11-server%E9%A1%AF%E7%A4%BA%E9%81%A0%E7%AB%AFgui/)
 - [git 筆記](https://jenhaoyang.github.io//posts/git%E7%AD%86%E8%A8%98/)
 - [Python呼叫C++系列&lpar;二&rpar;scikit-build](https://jenhaoyang.github.io//posts/python%E5%91%BC%E5%8F%ABc-%E7%B3%BB%E5%88%97-%E4%BA%8C-scikit-build/)
 - [tar gz 解壓縮](https://jenhaoyang.github.io//posts/tar-gz-%E8%A7%A3%E5%A3%93%E7%B8%AE/)
-- [Linux crontab 自動化例行性工作](https://jenhaoyang.github.io//posts/linux-crontab-%E8%87%AA%E5%8B%95%E5%8C%96%E4%BE%8B%E8%A1%8C%E6%80%A7%E5%B7%A5%E4%BD%9C/)
 <!-- BLOG-POST-LIST:END -->
 
 
