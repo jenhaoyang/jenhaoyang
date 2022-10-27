@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [實作Google登入按鈕](https://jenhaoyang.github.io//posts/%E5%AF%A6%E4%BD%9Cgoogle%E7%99%BB%E5%85%A5%E6%8C%89%E9%88%95/)
+- [FastAPI 印出422 unprocessable entity詳細資料](https://jenhaoyang.github.io//posts/fastapi-%E5%8D%B0%E5%87%BA422-unprocessable-entity%E8%A9%B3%E7%B4%B0%E8%B3%87%E6%96%99/)
 - [VSCode設定X11 Server顯示遠端GUI](https://jenhaoyang.github.io//posts/vscode%E8%A8%AD%E5%AE%9Ax11-server%E9%A1%AF%E7%A4%BA%E9%81%A0%E7%AB%AFgui/)
 - [git 筆記](https://jenhaoyang.github.io//posts/git%E7%AD%86%E8%A8%98/)
-- [Python呼叫C++系列&lpar;二&rpar;scikit-build](https://jenhaoyang.github.io//posts/python%E5%91%BC%E5%8F%ABc-%E7%B3%BB%E5%88%97-%E4%BA%8C-scikit-build/)
-- [tar gz 解壓縮](https://jenhaoyang.github.io//posts/tar-gz-%E8%A7%A3%E5%A3%93%E7%B8%AE/)
 <!-- BLOG-POST-LIST:END -->
 
 
