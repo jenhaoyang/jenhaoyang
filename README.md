@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux安裝prebuild的OpenCV函式庫](https://jenhaoyang.github.io//posts/linux%E5%AE%89%E8%A3%9Dprebuild%E7%9A%84opencv%E5%87%BD%E5%BC%8F%E5%BA%AB/)
+- [文章轉錄--Linux環境撰寫Shared Library](https://jenhaoyang.github.io//posts/%E6%96%87%E7%AB%A0%E8%BD%89%E9%8C%84-linux-%E6%92%B0%E5%AF%ABc-%E6%8A%80%E5%B7%A7/)
 - [Linux下設定VScode、CMake、GCC、GDB來開發C++專案](https://jenhaoyang.github.io//posts/linux%E4%B8%8B%E8%A8%AD%E5%AE%9Avscode-cmake-gcc-gdb%E4%BE%86%E9%96%8B%E7%99%BCc-%E5%B0%88%E6%A1%88/)
 - [Ubuntu NTP 校時](https://jenhaoyang.github.io//posts/%E8%A8%AD%E5%AE%9AUbuntu-NTP-%E6%A0%A1%E6%99%82/)
-- [實作Google登入按鈕](https://jenhaoyang.github.io//posts/%E5%AF%A6%E4%BD%9Cgoogle%E7%99%BB%E5%85%A5%E6%8C%89%E9%88%95/)
-- [FastAPI 印出422 unprocessable entity詳細資料](https://jenhaoyang.github.io//posts/fastapi-%E5%8D%B0%E5%87%BA422-unprocessable-entity%E8%A9%B3%E7%B4%B0%E8%B3%87%E6%96%99/)
 <!-- BLOG-POST-LIST:END -->
 
 
