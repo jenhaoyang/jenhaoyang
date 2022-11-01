@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Linux安裝prebuild的OpenCV函式庫](https://jenhaoyang.github.io//posts/linux%E5%AE%89%E8%A3%9Dprebuild%E7%9A%84opencv%E5%87%BD%E5%BC%8F%E5%BA%AB/)
-- [文章轉錄--Linux環境撰寫Shared Library](https://jenhaoyang.github.io//posts/%E6%96%87%E7%AB%A0%E8%BD%89%E9%8C%84-linux-%E6%92%B0%E5%AF%ABc-%E6%8A%80%E5%B7%A7/)
+- [安裝Vagrant製作測試環境](https://jenhaoyang.github.io//posts/%E5%AE%89%E8%A3%9Dvagrant%E8%A3%BD%E4%BD%9C%E6%B8%AC%E8%A9%A6%E7%92%B0%E5%A2%83/)
+- [Linux安裝prebuild函式庫以OpenCV為例](https://jenhaoyang.github.io//posts/Linux%E5%AE%89%E8%A3%9Dprebuild%E5%87%BD%E5%BC%8F%E5%BA%AB%E4%BB%A5OpenCV%E7%82%BA%E4%BE%8B/)
+- [文章轉錄--Linux環境撰寫Shared Library](https://jenhaoyang.github.io//posts/%E6%96%87%E7%AB%A0%E8%BD%89%E9%8C%84-Linux%E7%92%B0%E5%A2%83%E6%92%B0%E5%AF%ABShared-Library/)
 - [Linux下設定VScode、CMake、GCC、GDB來開發C++專案](https://jenhaoyang.github.io//posts/linux%E4%B8%8B%E8%A8%AD%E5%AE%9Avscode-cmake-gcc-gdb%E4%BE%86%E9%96%8B%E7%99%BCc-%E5%B0%88%E6%A1%88/)
-- [Ubuntu NTP 校時](https://jenhaoyang.github.io//posts/%E8%A8%AD%E5%AE%9AUbuntu-NTP-%E6%A0%A1%E6%99%82/)
 <!-- BLOG-POST-LIST:END -->
 
 
