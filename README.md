@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CMake教學系列三建立CMake專案](https://jenhaoyang.github.io//posts/cmake%E6%95%99%E5%AD%B8%E7%B3%BB%E5%88%97%E4%B8%89%E5%BB%BA%E7%AB%8Bcmake%E5%B0%88%E6%A1%88/)
 - [CMake教學系列二 CMake的觀念](https://jenhaoyang.github.io//posts/cmake%E6%95%99%E5%AD%B8%E7%B3%BB%E5%88%97%E4%BA%8C/)
 - [安裝Vagrant製作測試環境](https://jenhaoyang.github.io//posts/%E5%AE%89%E8%A3%9Dvagrant%E8%A3%BD%E4%BD%9C%E6%B8%AC%E8%A9%A6%E7%92%B0%E5%A2%83/)
 - [Linux安裝prebuild函式庫以OpenCV為例](https://jenhaoyang.github.io//posts/Linux%E5%AE%89%E8%A3%9Dprebuild%E5%87%BD%E5%BC%8F%E5%BA%AB%E4%BB%A5OpenCV%E7%82%BA%E4%BE%8B/)
-- [文章轉錄--Linux環境撰寫Shared Library](https://jenhaoyang.github.io//posts/%E6%96%87%E7%AB%A0%E8%BD%89%E9%8C%84-Linux%E7%92%B0%E5%A2%83%E6%92%B0%E5%AF%ABShared-Library/)
 <!-- BLOG-POST-LIST:END -->
 
 
