@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [實作yolov1](https://jenhaoyang.github.io//posts/%E5%AF%A6%E4%BD%9Cyolov1/)
-- [CMake教學系列三建立CMake專案](https://jenhaoyang.github.io//posts/cmake%E6%95%99%E5%AD%B8%E7%B3%BB%E5%88%97%E4%B8%89%E5%BB%BA%E7%AB%8Bcmake%E5%B0%88%E6%A1%88/)
-- [CMake教學系列二 CMake的觀念](https://jenhaoyang.github.io//posts/cmake%E6%95%99%E5%AD%B8%E7%B3%BB%E5%88%97%E4%BA%8C/)
-- [安裝Vagrant製作測試環境](https://jenhaoyang.github.io//posts/%E5%AE%89%E8%A3%9Dvagrant%E8%A3%BD%E4%BD%9C%E6%B8%AC%E8%A9%A6%E7%92%B0%E5%A2%83/)
+- [gdb教學二顯示Matrix或是Tensor](https://jenhaoyang.github.io//posts/gdb%E6%95%99%E5%AD%B8%E4%BA%8C%E9%A1%AF%E7%A4%BAmatrix%E6%88%96%E6%98%AFtensor/)
+- [gdb教學一基本操作](https://jenhaoyang.github.io//posts/gdb%E6%95%99%E5%AD%B8%E4%B8%80%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/)
+- [Python檢查記憶體用量](https://jenhaoyang.github.io//posts/python%E6%AA%A2%E6%9F%A5%E8%A8%98%E6%86%B6%E9%AB%94%E7%94%A8%E9%87%8F/)
+- [實作yolov2&lpar;YOLO9000&rpar;](https://jenhaoyang.github.io//posts/%E5%AF%A6%E4%BD%9Cyolov2/)
 <!-- BLOG-POST-LIST:END -->
 
 
