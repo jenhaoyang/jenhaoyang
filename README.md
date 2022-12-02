@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GDB除錯Python C extension](https://jenhaoyang.github.io//posts/gdb%E9%99%A4%E9%8C%AFpython-c-extension/)
 - [統計學課本重點摘要](https://jenhaoyang.github.io//posts/%E7%B5%B1%E8%A8%88%E5%AD%B8%E8%AA%B2%E6%9C%AC%E9%87%8D%E9%BB%9E%E6%91%98%E8%A6%81/)
 - [理解convolution](https://jenhaoyang.github.io//posts/%E7%90%86%E8%A7%A3convolution/)
 - [BatchNormalization論文閱讀與實作](https://jenhaoyang.github.io//posts/batchnormalization%E8%AB%96%E6%96%87%E9%96%B1%E8%AE%80%E8%88%87%E5%AF%A6%E4%BD%9C/)
-- [gdb教學二顯示Matrix或是Tensor](https://jenhaoyang.github.io//posts/gdb%E6%95%99%E5%AD%B8%E4%BA%8C%E9%A1%AF%E7%A4%BAmatrix%E6%88%96%E6%98%AFtensor/)
 <!-- BLOG-POST-LIST:END -->
 
 
