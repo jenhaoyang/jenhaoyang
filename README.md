@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GStreamer基礎教學](https://jenhaoyang.github.io//posts/gstreamer%E5%9F%BA%E7%A4%8E%E6%95%99%E5%AD%B8/)
+- [DeepStream動態增減串流](https://jenhaoyang.github.io//posts/deepstream%E5%8B%95%E6%85%8B%E5%A2%9E%E6%B8%9B%E4%B8%B2%E6%B5%81/)
 - [Linux 核心設計實作摘要](https://jenhaoyang.github.io//posts/linux-%E6%A0%B8%E5%BF%83%E8%A8%AD%E8%A8%88%E5%AF%A6%E4%BD%9C%E6%91%98%E8%A6%81/)
 - [GDB除錯Python C extension](https://jenhaoyang.github.io//posts/gdb%E9%99%A4%E9%8C%AFpython-c-extension/)
-- [統計學課本重點摘要](https://jenhaoyang.github.io//posts/%E7%B5%B1%E8%A8%88%E5%AD%B8%E8%AA%B2%E6%9C%AC%E9%87%8D%E9%BB%9E%E6%91%98%E8%A6%81/)
-- [理解convolution](https://jenhaoyang.github.io//posts/%E7%90%86%E8%A7%A3convolution/)
 <!-- BLOG-POST-LIST:END -->
 
 
