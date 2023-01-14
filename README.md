@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [deepstream教學](https://jenhaoyang.github.io//posts/deepstream%E6%95%99%E5%AD%B8/)
 - [ubuntu設定home目錄到定另一顆硬碟](https://jenhaoyang.github.io//posts/ubuntu%E8%A8%AD%E5%AE%9Ahome%E7%9B%AE%E9%8C%84%E5%88%B0%E5%AE%9A%E5%8F%A6%E4%B8%80%E9%A1%86%E7%A1%AC%E7%A2%9F/)
 - [GStreamer基礎教學](https://jenhaoyang.github.io//posts/gstreamer%E5%9F%BA%E7%A4%8E%E6%95%99%E5%AD%B8/)
 - [DeepStream動態增減串流](https://jenhaoyang.github.io//posts/deepstream%E5%8B%95%E6%85%8B%E5%A2%9E%E6%B8%9B%E4%B8%B2%E6%B5%81/)
-- [Linux 核心設計實作摘要](https://jenhaoyang.github.io//posts/linux-%E6%A0%B8%E5%BF%83%E8%A8%AD%E8%A8%88%E5%AF%A6%E4%BD%9C%E6%91%98%E8%A6%81/)
 <!-- BLOG-POST-LIST:END -->
 
 
