@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu設定VNC遠端桌面](https://jenhaoyang.github.io//posts/ubuntu%E8%A8%AD%E5%AE%9Avnc%E9%81%A0%E7%AB%AF%E6%A1%8C%E9%9D%A2/)
 - [deepstream教學](https://jenhaoyang.github.io//posts/deepstream%E6%95%99%E5%AD%B8/)
 - [ubuntu設定home目錄到定另一顆硬碟](https://jenhaoyang.github.io//posts/ubuntu%E8%A8%AD%E5%AE%9Ahome%E7%9B%AE%E9%8C%84%E5%88%B0%E5%AE%9A%E5%8F%A6%E4%B8%80%E9%A1%86%E7%A1%AC%E7%A2%9F/)
 - [GStreamer基礎教學](https://jenhaoyang.github.io//posts/gstreamer%E5%9F%BA%E7%A4%8E%E6%95%99%E5%AD%B8/)
-- [DeepStream動態增減串流](https://jenhaoyang.github.io//posts/deepstream%E5%8B%95%E6%85%8B%E5%A2%9E%E6%B8%9B%E4%B8%B2%E6%B5%81/)
 <!-- BLOG-POST-LIST:END -->
 
 
