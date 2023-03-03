@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Makefile教學](https://jenhaoyang.github.io//posts/Makefile%E6%95%99%E5%AD%B8/)
 - [Data exploration for Object Detection](https://jenhaoyang.github.io//posts/Data-exploration-for-Object-Detection/)
 - [makefile教學](https://jenhaoyang.github.io//posts/makefile%E6%95%99%E5%AD%B8/)
 - [Ubuntu設定VNC遠端桌面](https://jenhaoyang.github.io//posts/ubuntu%E8%A8%AD%E5%AE%9Avnc%E9%81%A0%E7%AB%AF%E6%A1%8C%E9%9D%A2/)
-- [deepstream教學](https://jenhaoyang.github.io//posts/deepstream%E6%95%99%E5%AD%B8/)
 <!-- BLOG-POST-LIST:END -->
 
 
