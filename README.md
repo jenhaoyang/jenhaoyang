@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Computer Vision Models Learning and Inference整理](https://jenhaoyang.github.io//posts/computer-vision-models-learning-and-inference%E6%95%B4%E7%90%86/)
 - [影音串流如何運作的](https://jenhaoyang.github.io//posts/%E5%BD%B1%E9%9F%B3%E4%B8%B2%E6%B5%81%E5%A6%82%E4%BD%95%E9%81%8B%E4%BD%9C%E7%9A%84/)
 - [Makefile教學](https://jenhaoyang.github.io//posts/Makefile%E6%95%99%E5%AD%B8/)
 - [Data exploration for Object Detection](https://jenhaoyang.github.io//posts/Data-exploration-for-Object-Detection/)
-- [makefile教學](https://jenhaoyang.github.io//posts/makefile%E6%95%99%E5%AD%B8/)
 <!-- BLOG-POST-LIST:END -->
 
 
