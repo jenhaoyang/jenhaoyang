@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu設定自動化安全性更新](https://jenhaoyang.github.io//posts/Ubuntu%E8%A8%AD%E5%AE%9A%E8%87%AA%E5%8B%95%E5%8C%96%E5%AE%89%E5%85%A8%E6%80%A7%E6%9B%B4%E6%96%B0/)
 - [Windows使用SOCKS5-proxy上網](https://jenhaoyang.github.io//posts/%E4%BD%BF%E7%94%A8SOCKS5-proxy%E4%B8%8A%E7%B6%B2/)
+- [82023-04-18-windows-docker](https://jenhaoyang.github.io//posts/windows-docker/)
 - [Windows設定自動重啟服務](https://jenhaoyang.github.io//posts/Windows%E8%A8%AD%E5%AE%9A%E8%87%AA%E5%8B%95%E9%87%8D%E5%95%9F%E6%9C%8D%E5%8B%99/)
-- [libcurl上傳圖片](https://jenhaoyang.github.io//posts/libcurl%E4%B8%8A%E5%82%B3%E5%9C%96%E7%89%87/)
-- [Computer Vision Models Learning and Inference整理](https://jenhaoyang.github.io//posts/computer-vision-models-learning-and-inference%E6%95%B4%E7%90%86/)
 <!-- BLOG-POST-LIST:END -->
 
 
