@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Ubuntu設定自動化安全性更新](https://jenhaoyang.github.io//posts/Ubuntu%E8%A8%AD%E5%AE%9A%E8%87%AA%E5%8B%95%E5%8C%96%E5%AE%89%E5%85%A8%E6%80%A7%E6%9B%B4%E6%96%B0/)
-- [Windows使用SOCKS5-proxy上網](https://jenhaoyang.github.io//posts/%E4%BD%BF%E7%94%A8SOCKS5-proxy%E4%B8%8A%E7%B6%B2/)
-- [82023-04-18-windows-docker](https://jenhaoyang.github.io//posts/windows-docker/)
-- [Windows設定自動重啟服務](https://jenhaoyang.github.io//posts/Windows%E8%A8%AD%E5%AE%9A%E8%87%AA%E5%8B%95%E9%87%8D%E5%95%9F%E6%9C%8D%E5%8B%99/)
+- [樹梅派列印機和掃描器伺服器](https://jenhaoyang.github.io//posts/%E6%A8%B9%E6%A2%85%E6%B4%BE%E5%88%97%E5%8D%B0%E6%A9%9F%E5%92%8C%E6%8E%83%E6%8F%8F%E5%99%A8%E4%BC%BA%E6%9C%8D%E5%99%A8/)
+- [Ubuntu使用nmtui設定網路ip](https://jenhaoyang.github.io//posts/Ubuntu%E4%BD%BF%E7%94%A8nmtui%E8%A8%AD%E5%AE%9A%E7%B6%B2%E8%B7%AFip/)
+- [Nomachine無法控制Ubuntu Server解法](https://jenhaoyang.github.io//posts/Nomachine%E7%84%A1%E6%B3%95%E6%8E%A7%E5%88%B6Ubuntu-Server%E8%A7%A3%E6%B3%95/)
+- [Jetson設定](https://jenhaoyang.github.io//posts/Jetson%E8%A8%AD%E5%AE%9A/)
 <!-- BLOG-POST-LIST:END -->
 
 
