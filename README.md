@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [設定watchdog](https://jenhaoyang.github.io//posts/Jetson%E8%A8%AD%E5%AE%9Awatchdog/)
+- [logstash設定教學](https://jenhaoyang.github.io//posts/logstash%E8%A8%AD%E5%AE%9A%E6%95%99%E5%AD%B8/)
 - [Ubuntu-cli-網路狀態檢查](https://jenhaoyang.github.io//posts/Ubuntu-cli-%E7%B6%B2%E8%B7%AF%E7%8B%80%E6%85%8B%E6%AA%A2%E6%9F%A5/)
 - [ld找不到動態函式庫的除錯方法](https://jenhaoyang.github.io//posts/ld%E6%89%BE%E4%B8%8D%E5%88%B0%E5%8B%95%E6%85%8B%E5%87%BD%E5%BC%8F%E5%BA%AB%E7%9A%84%E9%99%A4%E9%8C%AF%E6%96%B9%E6%B3%95/)
-- [樹梅派列印機和掃描器伺服器](https://jenhaoyang.github.io//posts/%E7%B0%A1%E6%98%93RTSP-server/)
-- [樹梅派列印機和掃描器伺服器](https://jenhaoyang.github.io//posts/%E6%A8%B9%E6%A2%85%E6%B4%BE%E5%88%97%E5%8D%B0%E6%A9%9F%E5%92%8C%E6%8E%83%E6%8F%8F%E5%99%A8%E4%BC%BA%E6%9C%8D%E5%99%A8/)
 <!-- BLOG-POST-LIST:END -->
 
 
