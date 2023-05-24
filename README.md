@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [elasticsearch API](https://jenhaoyang.github.io//posts/elasticsearch-API/)
 - [樹梅派學習Liunx](https://jenhaoyang.github.io//posts/%E6%A8%B9%E6%A2%85%E6%B4%BE%E5%AD%B8%E7%BF%92Liunx/)
 - [設定watchdog](https://jenhaoyang.github.io//posts/Jetson%E8%A8%AD%E5%AE%9Awatchdog/)
 - [logstash設定教學](https://jenhaoyang.github.io//posts/logstash%E8%A8%AD%E5%AE%9A%E6%95%99%E5%AD%B8/)
-- [Ubuntu-cli-網路狀態檢查](https://jenhaoyang.github.io//posts/Ubuntu-cli-%E7%B6%B2%E8%B7%AF%E7%8B%80%E6%85%8B%E6%AA%A2%E6%9F%A5/)
 <!-- BLOG-POST-LIST:END -->
 
 
