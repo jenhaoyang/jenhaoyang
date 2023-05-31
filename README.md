@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [TAO設定和訓練](https://jenhaoyang.github.io//posts/TAO%E8%A8%AD%E5%AE%9A%E5%92%8C%E8%A8%93%E7%B7%B4/)
 - [elasticsearch API](https://jenhaoyang.github.io//posts/elasticsearch-API/)
 - [樹梅派學習Liunx](https://jenhaoyang.github.io//posts/%E6%A8%B9%E6%A2%85%E6%B4%BE%E5%AD%B8%E7%BF%92Liunx/)
 - [設定watchdog](https://jenhaoyang.github.io//posts/Jetson%E8%A8%AD%E5%AE%9Awatchdog/)
-- [logstash設定教學](https://jenhaoyang.github.io//posts/logstash%E8%A8%AD%E5%AE%9A%E6%95%99%E5%AD%B8/)
 <!-- BLOG-POST-LIST:END -->
 
 
