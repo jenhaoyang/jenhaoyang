@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows下使用tracetcp](https://jenhaoyang.github.io//posts/Windows%E4%B8%8B%E4%BD%BF%E7%94%A8tracetcp/)
+- [deepstream-tracker參數調整](https://jenhaoyang.github.io//posts/deepstream-tracker%E5%8F%83%E6%95%B8%E8%AA%BF%E6%95%B4/)
 - [Linux下的Docker更改image儲存位置](https://jenhaoyang.github.io//posts/Linux%E4%B8%8B%E7%9A%84Docker%E6%9B%B4%E6%94%B9image%E5%84%B2%E5%AD%98%E4%BD%8D%E7%BD%AE/)
 - [Linux使用SOCKS5-proxy上網](https://jenhaoyang.github.io//posts/Linux%E4%BD%BF%E7%94%A8SOCKS5-proxy%E4%B8%8A%E7%B6%B2/)
-- [TAO設定和訓練](https://jenhaoyang.github.io//posts/TAO%E8%A8%AD%E5%AE%9A%E5%92%8C%E8%A8%93%E7%B7%B4/)
-- [elasticsearch API](https://jenhaoyang.github.io//posts/elasticsearch-API/)
 <!-- BLOG-POST-LIST:END -->
 
 
