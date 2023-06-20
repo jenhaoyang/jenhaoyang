@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [計算攝影機所需的頻寬](https://jenhaoyang.github.io//posts/%E8%A8%88%E7%AE%97%E6%94%9D%E5%BD%B1%E6%A9%9F%E6%89%80%E9%9C%80%E7%9A%84%E9%A0%BB%E5%AF%AC/)
+- [git忽略已經追蹤的檔案](https://jenhaoyang.github.io//posts/git%E5%BF%BD%E7%95%A5%E5%B7%B2%E7%B6%93%E8%BF%BD%E8%B9%A4%E7%9A%84%E6%AA%94%E6%A1%88-copy/)
 - [Windows下使用tracetcp](https://jenhaoyang.github.io//posts/Windows%E4%B8%8B%E4%BD%BF%E7%94%A8tracetcp/)
 - [deepstream-tracker參數調整](https://jenhaoyang.github.io//posts/deepstream-tracker%E5%8F%83%E6%95%B8%E8%AA%BF%E6%95%B4/)
-- [Linux下的Docker更改image儲存位置](https://jenhaoyang.github.io//posts/Linux%E4%B8%8B%E7%9A%84Docker%E6%9B%B4%E6%94%B9image%E5%84%B2%E5%AD%98%E4%BD%8D%E7%BD%AE/)
-- [Linux使用SOCKS5-proxy上網](https://jenhaoyang.github.io//posts/Linux%E4%BD%BF%E7%94%A8SOCKS5-proxy%E4%B8%8A%E7%B6%B2/)
 <!-- BLOG-POST-LIST:END -->
 
 
