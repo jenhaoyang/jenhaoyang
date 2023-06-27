@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [2023-06-26-演算法讀書筆記](https://jenhaoyang.github.io//posts/%E6%BC%94%E7%AE%97%E6%B3%95/)
 - [計算攝影機所需的頻寬](https://jenhaoyang.github.io//posts/%E8%A8%88%E7%AE%97%E6%94%9D%E5%BD%B1%E6%A9%9F%E6%89%80%E9%9C%80%E7%9A%84%E9%A0%BB%E5%AF%AC/)
 - [git忽略已經追蹤的檔案](https://jenhaoyang.github.io//posts/git%E5%BF%BD%E7%95%A5%E5%B7%B2%E7%B6%93%E8%BF%BD%E8%B9%A4%E7%9A%84%E6%AA%94%E6%A1%88-copy/)
 - [Windows下使用tracetcp](https://jenhaoyang.github.io//posts/Windows%E4%B8%8B%E4%BD%BF%E7%94%A8tracetcp/)
-- [deepstream-tracker參數調整](https://jenhaoyang.github.io//posts/deepstream-tracker%E5%8F%83%E6%95%B8%E8%AA%BF%E6%95%B4/)
 <!-- BLOG-POST-LIST:END -->
 
 
