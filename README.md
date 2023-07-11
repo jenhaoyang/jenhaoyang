@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [2023-06-26-演算法讀書筆記](https://jenhaoyang.github.io//posts/%E6%BC%94%E7%AE%97%E6%B3%95/)
-- [計算攝影機所需的頻寬](https://jenhaoyang.github.io//posts/%E8%A8%88%E7%AE%97%E6%94%9D%E5%BD%B1%E6%A9%9F%E6%89%80%E9%9C%80%E7%9A%84%E9%A0%BB%E5%AF%AC/)
-- [git忽略已經追蹤的檔案](https://jenhaoyang.github.io//posts/git%E5%BF%BD%E7%95%A5%E5%B7%B2%E7%B6%93%E8%BF%BD%E8%B9%A4%E7%9A%84%E6%AA%94%E6%A1%88-copy/)
-- [Windows下使用tracetcp](https://jenhaoyang.github.io//posts/Windows%E4%B8%8B%E4%BD%BF%E7%94%A8tracetcp/)
+- [Dive into DeepLearning](https://jenhaoyang.github.io//posts/DiveIntoDeepLearning/)
+- [vscode-C開發環境](https://jenhaoyang.github.io//posts/vscode-C%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83/)
+- [CMake常用指令](https://jenhaoyang.github.io//posts/cmake%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/)
+- [git刪除歷史中的大檔案](https://jenhaoyang.github.io//posts/git%E5%88%AA%E9%99%A4%E6%AD%B7%E5%8F%B2%E4%B8%AD%E7%9A%84%E5%A4%A7%E6%AA%94%E6%A1%88/)
 <!-- BLOG-POST-LIST:END -->
 
 
