@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [gdb pretty print](https://jenhaoyang.github.io//posts/gdb-pretty-print/)
 - [Dive into DeepLearning](https://jenhaoyang.github.io//posts/DiveIntoDeepLearning/)
 - [vscode-C開發環境](https://jenhaoyang.github.io//posts/vscode-C%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83/)
 - [CMake常用指令](https://jenhaoyang.github.io//posts/cmake%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/)
-- [git刪除歷史中的大檔案](https://jenhaoyang.github.io//posts/git%E5%88%AA%E9%99%A4%E6%AD%B7%E5%8F%B2%E4%B8%AD%E7%9A%84%E5%A4%A7%E6%AA%94%E6%A1%88/)
 <!-- BLOG-POST-LIST:END -->
 
 
