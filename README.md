@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [申請憑證](https://jenhaoyang.github.io//posts/%E7%94%B3%E8%AB%8B%E6%86%91%E8%AD%89/)
 - [gdb pretty print](https://jenhaoyang.github.io//posts/gdb-pretty-print/)
 - [Dive into DeepLearning](https://jenhaoyang.github.io//posts/DiveIntoDeepLearning/)
 - [vscode-C開發環境](https://jenhaoyang.github.io//posts/vscode-C%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83/)
-- [CMake常用指令](https://jenhaoyang.github.io//posts/cmake%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/)
 <!-- BLOG-POST-LIST:END -->
 
 
