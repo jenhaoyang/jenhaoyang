@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [自動尋找最適合的apt-mirror](https://jenhaoyang.github.io//posts/%E8%87%AA%E5%8B%95%E5%B0%8B%E6%89%BE%E6%9C%80%E9%81%A9%E5%90%88%E7%9A%84apt-mirror/)
+- [Docker無法更新apt套件](https://jenhaoyang.github.io//posts/Docker%E7%84%A1%E6%B3%95%E6%9B%B4%E6%96%B0apt%E5%A5%97%E4%BB%B6/)
 - [申請憑證](https://jenhaoyang.github.io//posts/%E7%94%B3%E8%AB%8B%E6%86%91%E8%AD%89/)
 - [gdb pretty print](https://jenhaoyang.github.io//posts/gdb-pretty-print/)
-- [Dive into DeepLearning](https://jenhaoyang.github.io//posts/DiveIntoDeepLearning/)
-- [vscode-C開發環境](https://jenhaoyang.github.io//posts/vscode-C%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83/)
 <!-- BLOG-POST-LIST:END -->
 
 
