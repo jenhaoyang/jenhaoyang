@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [行人屬性辨識](https://jenhaoyang.github.io//posts/%E8%A1%8C%E4%BA%BA%E5%B1%AC%E6%80%A7%E8%BE%A8%E8%AD%98/)
 - [樹梅派傳真機](https://jenhaoyang.github.io//posts/%E6%A8%B9%E6%A2%85%E6%B4%BE%E5%82%B3%E7%9C%9F%E6%A9%9F/)
 - [印出requests內容](https://jenhaoyang.github.io//posts/%E5%8D%B0%E5%87%BArequests%E5%85%A7%E5%AE%B9-copy/)
 - [自動尋找最適合的apt-mirror](https://jenhaoyang.github.io//posts/%E8%87%AA%E5%8B%95%E5%B0%8B%E6%89%BE%E6%9C%80%E9%81%A9%E5%90%88%E7%9A%84apt-mirror/)
-- [Docker無法更新apt套件](https://jenhaoyang.github.io//posts/Docker%E7%84%A1%E6%B3%95%E6%9B%B4%E6%96%B0apt%E5%A5%97%E4%BB%B6/)
 <!-- BLOG-POST-LIST:END -->
 
 
