@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [apt相關問題](https://jenhaoyang.github.io//posts/apt%E7%9B%B8%E9%97%9C%E5%95%8F%E9%A1%8C/)
 - [多媒體伺服器mediaserver](https://jenhaoyang.github.io//posts/CodeInterview/)
 - [多媒體伺服器mediaserver](https://jenhaoyang.github.io//posts/%E5%A4%9A%E5%AA%92%E9%AB%94%E4%BC%BA%E6%9C%8D%E5%99%A8mediaserver/)
 - [Ubuntu root資料夾滿了](https://jenhaoyang.github.io//posts/Ubuntu-root%E8%B3%87%E6%96%99%E5%A4%BE%E6%BB%BF%E4%BA%86/)
-- [行人屬性辨識](https://jenhaoyang.github.io//posts/%E8%A1%8C%E4%BA%BA%E5%B1%AC%E6%80%A7%E8%BE%A8%E8%AD%98/)
 <!-- BLOG-POST-LIST:END -->
 
 
