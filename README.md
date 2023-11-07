@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [apt相關問題](https://jenhaoyang.github.io//posts/apt%E7%9B%B8%E9%97%9C%E5%95%8F%E9%A1%8C/)
-- [多媒體伺服器mediaserver](https://jenhaoyang.github.io//posts/CodeInterview/)
-- [多媒體伺服器mediaserver](https://jenhaoyang.github.io//posts/%E5%A4%9A%E5%AA%92%E9%AB%94%E4%BC%BA%E6%9C%8D%E5%99%A8mediaserver/)
-- [Ubuntu root資料夾滿了](https://jenhaoyang.github.io//posts/Ubuntu-root%E8%B3%87%E6%96%99%E5%A4%BE%E6%BB%BF%E4%BA%86/)
+- [systemd相關](https://jenhaoyang.github.io//posts/systemd%E7%9B%B8%E9%97%9C/)
+- [Ubuntu好用套件](https://jenhaoyang.github.io//posts/Ubuntu%E5%A5%BD%E7%94%A8%E5%A5%97%E4%BB%B6/)
+- [Kafka疑難雜症](https://jenhaoyang.github.io//posts/Kafka%E7%96%91%E9%9B%A3%E9%9B%9C%E7%97%87/)
+- [CMake疑難雜症](https://jenhaoyang.github.io//posts/CMake%E7%96%91%E9%9B%A3%E9%9B%9C%E7%97%87/)
 <!-- BLOG-POST-LIST:END -->
 
 
