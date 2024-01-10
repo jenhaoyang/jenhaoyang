@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [c 執行錯誤經驗](https://jenhaoyang.github.io//posts/linux%E5%AF%86%E7%A2%BC%E8%B3%87%E5%AE%89%E8%A8%AD%E5%AE%9A/)
+- [c 執行錯誤經驗](https://jenhaoyang.github.io//posts/c%E5%9F%B7%E8%A1%8C%E9%8C%AF%E8%AA%A4%E7%B6%93%E9%A9%97/)
 - [演算法練習筆記](https://jenhaoyang.github.io//posts/%E6%BC%94%E7%AE%97%E6%B3%95%E7%B7%B4%E7%BF%92%E7%AD%86%E8%A8%98/)
 - [systemd相關](https://jenhaoyang.github.io//posts/systemd%E7%9B%B8%E9%97%9C/)
-- [Ubuntu好用套件](https://jenhaoyang.github.io//posts/Ubuntu%E5%A5%BD%E7%94%A8%E5%A5%97%E4%BB%B6/)
-- [Kafka疑難雜症](https://jenhaoyang.github.io//posts/Kafka%E7%96%91%E9%9B%A3%E9%9B%9C%E7%97%87/)
 <!-- BLOG-POST-LIST:END -->
 
 
