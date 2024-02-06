@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [串流相關知識](https://jenhaoyang.github.io//posts/%E4%B8%B2%E6%B5%81%E7%9B%B8%E9%97%9C%E7%9F%A5%E8%AD%98/)
 - [2024-01-20-CMake編譯OpenCV-Python](https://jenhaoyang.github.io//posts/CMake%E7%B7%A8%E8%AD%AFOpenCV-Python/)
 - [2024-01-20-Elasticsearch-客製化搜尋條件](https://jenhaoyang.github.io//posts/Elasticsearch-%E5%AE%A2%E8%A3%BD%E5%8C%96%E6%90%9C%E5%B0%8B%E6%A2%9D%E4%BB%B6-copy/)
 - [製作Python-package](https://jenhaoyang.github.io//posts/%E8%A3%BD%E4%BD%9CPython-package/)
-- [c 執行錯誤經驗](https://jenhaoyang.github.io//posts/linux%E5%AF%86%E7%A2%BC%E8%B3%87%E5%AE%89%E8%A8%AD%E5%AE%9A/)
 <!-- BLOG-POST-LIST:END -->
 
 
