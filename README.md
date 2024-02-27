@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [apt離線安裝套件的方法](https://jenhaoyang.github.io//posts/apt%E9%9B%A2%E7%B7%9A%E5%AE%89%E8%A3%9D%E5%A5%97%E4%BB%B6%E7%9A%84%E6%96%B9%E6%B3%95/)
 - [讓docker pull回復上次失敗的下載](https://jenhaoyang.github.io//posts/%E8%AE%93docker-pull%E5%9B%9E%E5%BE%A9%E4%B8%8A%E6%AC%A1%E5%A4%B1%E6%95%97%E7%9A%84%E4%B8%8B%E8%BC%89/)
 - [串流相關知識](https://jenhaoyang.github.io//posts/%E4%B8%B2%E6%B5%81%E7%9B%B8%E9%97%9C%E7%9F%A5%E8%AD%98/)
-- [2024-01-20-CMake編譯OpenCV-Python](https://jenhaoyang.github.io//posts/CMake%E7%B7%A8%E8%AD%AFOpenCV-Python/)
-- [2024-01-20-Elasticsearch-客製化搜尋條件](https://jenhaoyang.github.io//posts/Elasticsearch-%E5%AE%A2%E8%A3%BD%E5%8C%96%E6%90%9C%E5%B0%8B%E6%A2%9D%E4%BB%B6-copy/)
+- [2024-01-23-CMake編譯OpenCV-Python](https://jenhaoyang.github.io//posts/CMake%E7%B7%A8%E8%AD%AFOpenCV-Python/)
 <!-- BLOG-POST-LIST:END -->
 
 
