@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ssh經過跳板機的連線方式](https://jenhaoyang.github.io//posts/ssh%E7%B6%93%E9%81%8E%E8%B7%B3%E6%9D%BF%E6%A9%9F%E7%9A%84%E9%80%A3%E7%B7%9A%E6%96%B9%E5%BC%8F-copy/)
+- [Ubuntu22遠端桌面設定](https://jenhaoyang.github.io//posts/Ubuntu22%E9%81%A0%E7%AB%AF%E6%A1%8C%E9%9D%A2%E8%A8%AD%E5%AE%9A/)
 - [apt離線安裝套件的方法](https://jenhaoyang.github.io//posts/apt%E9%9B%A2%E7%B7%9A%E5%AE%89%E8%A3%9D%E5%A5%97%E4%BB%B6%E7%9A%84%E6%96%B9%E6%B3%95/)
 - [讓docker pull回復上次失敗的下載](https://jenhaoyang.github.io//posts/%E8%AE%93docker-pull%E5%9B%9E%E5%BE%A9%E4%B8%8A%E6%AC%A1%E5%A4%B1%E6%95%97%E7%9A%84%E4%B8%8B%E8%BC%89/)
-- [串流相關知識](https://jenhaoyang.github.io//posts/%E4%B8%B2%E6%B5%81%E7%9B%B8%E9%97%9C%E7%9F%A5%E8%AD%98/)
-- [2024-01-23-CMake編譯OpenCV-Python](https://jenhaoyang.github.io//posts/CMake%E7%B7%A8%E8%AD%AFOpenCV-Python/)
 <!-- BLOG-POST-LIST:END -->
 
 
