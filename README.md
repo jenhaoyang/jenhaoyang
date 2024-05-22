@@ -7,9 +7,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Ubuntu安裝軟體遇到Hash-mismatch錯誤](https://jenhaoyang.github.io//posts/Ubuntu%E5%AE%89%E8%A3%9D%E8%BB%9F%E9%AB%94%E9%81%87%E5%88%B0Hash-mismatch%E9%8C%AF%E8%AA%A4/)
+- [Deepstream開發環境設定](https://jenhaoyang.github.io//posts/Deepstream%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83%E8%A8%AD%E5%AE%9A/)
+- [CUDA編譯經驗](https://jenhaoyang.github.io//posts/CUDA%E7%B7%A8%E8%AD%AF%E7%B6%93%E9%A9%97/)
 - [update-alternatives管理軟體版本](https://jenhaoyang.github.io//posts/update-alternatives%E7%AE%A1%E7%90%86%E8%BB%9F%E9%AB%94%E7%89%88%E6%9C%AC/)
-- [用bash讓程式壞掉的時候自動重啟](https://jenhaoyang.github.io//posts/%E7%94%A8bash%E8%AE%93%E7%A8%8B%E5%BC%8F%E5%A3%9E%E6%8E%89%E7%9A%84%E6%99%82%E5%80%99%E8%87%AA%E5%8B%95%E9%87%8D%E5%95%9F/)
-- [nohup使用教學](https://jenhaoyang.github.io//posts/nohup%E4%BD%BF%E7%94%A8%E6%95%99%E5%AD%B8/)
 <!-- BLOG-POST-LIST:END -->
 
 
