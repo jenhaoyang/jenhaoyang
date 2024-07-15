@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [2024-07-10-VScode-Makefile-Debug](https://jenhaoyang.github.io//posts/VScode-Makefile-Debug/)
+- [製作Linux-Deamon](https://jenhaoyang.github.io//posts/%E8%A3%BD%E4%BD%9CLinux-Deamon/)
 - [編譯cuda程式](https://jenhaoyang.github.io//posts/%E7%B7%A8%E8%AD%AFcuda%E7%A8%8B%E5%BC%8F/)
 - [Wireshark擷取封包](https://jenhaoyang.github.io//posts/Wireshark%E6%93%B7%E5%8F%96%E5%B0%81%E5%8C%85/)
-- [Windows-NTP校時](https://jenhaoyang.github.io//posts/Windows-NTP%E6%A0%A1%E6%99%82/)
-- [Ubuntu安裝軟體遇到Hash-mismatch錯誤](https://jenhaoyang.github.io//posts/Ubuntu%E5%AE%89%E8%A3%9D%E8%BB%9F%E9%AB%94%E9%81%87%E5%88%B0Hash-mismatch%E9%8C%AF%E8%AA%A4/)
 <!-- BLOG-POST-LIST:END -->
 
 
