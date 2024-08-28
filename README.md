@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [用systemd製作服務](https://jenhaoyang.github.io//posts/%E7%94%A8systemd%E8%A3%BD%E4%BD%9C%E6%9C%8D%E5%8B%99/)
 - [Python執行tensorrt-engine](https://jenhaoyang.github.io//posts/Python%E5%9F%B7%E8%A1%8Ctensorrt-engine/)
 - [VScode-C語言除錯技巧](https://jenhaoyang.github.io//posts/VSCode-GDB-C%E8%AA%9E%E8%A8%80%E9%99%A4%E9%8C%AF%E6%8A%80%E5%B7%A7/)
 - [2024-07-10-VScode-Makefile-Debug](https://jenhaoyang.github.io//posts/VScode-Makefile-Debug/)
-- [製作Linux-Deamon](https://jenhaoyang.github.io//posts/%E8%A3%BD%E4%BD%9CLinux-Deamon/)
 <!-- BLOG-POST-LIST:END -->
 
 
