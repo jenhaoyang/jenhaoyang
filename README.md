@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Python執行tensorrt-engine](https://jenhaoyang.github.io//posts/Python%E5%9F%B7%E8%A1%8Ctensorrt-engine/)
+- [VScode-C語言除錯技巧](https://jenhaoyang.github.io//posts/VSCode-GDB-C%E8%AA%9E%E8%A8%80%E9%99%A4%E9%8C%AF%E6%8A%80%E5%B7%A7/)
 - [2024-07-10-VScode-Makefile-Debug](https://jenhaoyang.github.io//posts/VScode-Makefile-Debug/)
 - [製作Linux-Deamon](https://jenhaoyang.github.io//posts/%E8%A3%BD%E4%BD%9CLinux-Deamon/)
-- [編譯cuda程式](https://jenhaoyang.github.io//posts/%E7%B7%A8%E8%AD%AFcuda%E7%A8%8B%E5%BC%8F/)
-- [Wireshark擷取封包](https://jenhaoyang.github.io//posts/Wireshark%E6%93%B7%E5%8F%96%E5%B0%81%E5%8C%85/)
 <!-- BLOG-POST-LIST:END -->
 
 
