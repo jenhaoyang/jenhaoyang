@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu新增ssh使用者](https://jenhaoyang.github.io//posts/Ubuntu%E6%96%B0%E5%A2%9Essh%E4%BD%BF%E7%94%A8%E8%80%85/)
+- [Glib使用筆記](https://jenhaoyang.github.io//posts/Glib%E4%BD%BF%E7%94%A8%E7%AD%86%E8%A8%98/)
+- [Ubuntu使用未分割的硬碟區域](https://jenhaoyang.github.io//posts/Ubuntu%E4%BD%BF%E7%94%A8%E6%9C%AA%E5%88%86%E5%89%B2%E7%9A%84%E7%A1%AC%E7%A2%9F%E5%8D%80%E5%9F%9F/)
 - [用systemd製作服務](https://jenhaoyang.github.io//posts/%E7%94%A8systemd%E8%A3%BD%E4%BD%9C%E6%9C%8D%E5%8B%99/)
-- [Python執行tensorrt-engine](https://jenhaoyang.github.io//posts/Python%E5%9F%B7%E8%A1%8Ctensorrt-engine/)
-- [VScode-C語言除錯技巧](https://jenhaoyang.github.io//posts/VSCode-GDB-C%E8%AA%9E%E8%A8%80%E9%99%A4%E9%8C%AF%E6%8A%80%E5%B7%A7/)
-- [2024-07-10-VScode-Makefile-Debug](https://jenhaoyang.github.io//posts/VScode-Makefile-Debug/)
 <!-- BLOG-POST-LIST:END -->
 
 
