@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu設定靜態路由](https://jenhaoyang.github.io//posts/Ubuntu%E8%A8%AD%E5%AE%9A%E9%9D%9C%E6%85%8B%E8%B7%AF%E7%94%B1/)
+- [Gstreamer使用筆記](https://jenhaoyang.github.io//posts/Gstreamer%E4%BD%BF%E7%94%A8%E7%AD%86%E8%A8%98/)
 - [Ubuntu新增ssh使用者](https://jenhaoyang.github.io//posts/Ubuntu%E6%96%B0%E5%A2%9Essh%E4%BD%BF%E7%94%A8%E8%80%85/)
 - [Glib使用筆記](https://jenhaoyang.github.io//posts/Glib%E4%BD%BF%E7%94%A8%E7%AD%86%E8%A8%98/)
-- [Ubuntu使用未分割的硬碟區域](https://jenhaoyang.github.io//posts/Ubuntu%E4%BD%BF%E7%94%A8%E6%9C%AA%E5%88%86%E5%89%B2%E7%9A%84%E7%A1%AC%E7%A2%9F%E5%8D%80%E5%9F%9F/)
-- [用systemd製作服務](https://jenhaoyang.github.io//posts/%E7%94%A8systemd%E8%A3%BD%E4%BD%9C%E6%9C%8D%E5%8B%99/)
 <!-- BLOG-POST-LIST:END -->
 
 
