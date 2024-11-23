@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Ubuntu設定靜態路由](https://jenhaoyang.github.io//posts/Ubuntu%E8%A8%AD%E5%AE%9A%E9%9D%9C%E6%85%8B%E8%B7%AF%E7%94%B1/)
-- [Gstreamer使用筆記](https://jenhaoyang.github.io//posts/Gstreamer%E4%BD%BF%E7%94%A8%E7%AD%86%E8%A8%98/)
-- [Ubuntu新增ssh使用者](https://jenhaoyang.github.io//posts/Ubuntu%E6%96%B0%E5%A2%9Essh%E4%BD%BF%E7%94%A8%E8%80%85/)
-- [Glib使用筆記](https://jenhaoyang.github.io//posts/Glib%E4%BD%BF%E7%94%A8%E7%AD%86%E8%A8%98/)
+- [Ubuntu異常重啟原因查詢](https://jenhaoyang.github.io/%E7%95%B0%E5%B8%B8%E9%87%8D%E5%95%9F/00956418f62a/)
+- [手動新增路由表](https://jenhaoyang.github.io/%E7%B6%B2%E8%B7%AF%E8%A8%AD%E5%AE%9A/337ce3f5f1f0/)
+- [Hexo使用筆記](https://jenhaoyang.github.io/uncategorized/727c0979c87d/)
+- [函式庫的rpath](https://jenhaoyang.github.io/uncategorized/9983d8c3e05c/)
 <!-- BLOG-POST-LIST:END -->
 
 
