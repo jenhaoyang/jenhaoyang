@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia Driver安裝](https://jenhaoyang.github.io/uncategorized/4f3f58311a1a/)
+- [Ubuntu硬碟異常排除](https://jenhaoyang.github.io/uncategorized/6270d26511ba/)
 - [Ubuntu製作USB開機隨身碟](https://jenhaoyang.github.io/uncategorized/c19dc16d8cf1/)
 - [類別之間的關係](https://jenhaoyang.github.io/uncategorized/de72cb24d2d3/)
-- [SIP使用筆記](https://jenhaoyang.github.io/uncategorized/ebca94ea2bba/)
-- [Ubuntu防止記憶體被用光earlyoom](https://jenhaoyang.github.io/uncategorized/9fff5e9985a7/)
 <!-- BLOG-POST-LIST:END -->
 
 
