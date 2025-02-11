@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu-Safe-Graphic解決安裝時顯卡驅動問題](https://jenhaoyang.github.io/uncategorized/9f51f63cbfc2/)
 - [Windows SSH server key base登入](https://jenhaoyang.github.io/uncategorized/c800e483ccd4/)
 - [Nvidia Driver安裝](https://jenhaoyang.github.io/uncategorized/4f3f58311a1a/)
 - [Ubuntu硬碟異常排除](https://jenhaoyang.github.io/uncategorized/6270d26511ba/)
-- [Ubuntu製作USB開機隨身碟](https://jenhaoyang.github.io/uncategorized/c19dc16d8cf1/)
 <!-- BLOG-POST-LIST:END -->
 
 
