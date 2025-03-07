@@ -7,9 +7,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [軟體SIP電話linphone](https://jenhaoyang.github.io/uncategorized/a018c46adba7/)
+- [IPMI](https://jenhaoyang.github.io/uncategorized/6bf54843bfb9/)
 - [GoogleTest](https://jenhaoyang.github.io/uncategorized/ad57fcdb923a/)
 - [Ubuntu-Safe-Graphic解決安裝時顯卡驅動問題](https://jenhaoyang.github.io/uncategorized/9f51f63cbfc2/)
-- [Windows SSH server key base登入](https://jenhaoyang.github.io/uncategorized/c800e483ccd4/)
 <!-- BLOG-POST-LIST:END -->
 
 
