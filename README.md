@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [cmake google test配置](https://jenhaoyang.github.io/uncategorized/11a0e92fb4e2/)
 - [Ubuntu加入WindowsAD](https://jenhaoyang.github.io/uncategorized/e592acfeb440/)
 - [使用gst-shark](https://jenhaoyang.github.io/uncategorized/b8eb9c8708b3/)
 - [gstreamer使用gdb的方法](https://jenhaoyang.github.io/uncategorized/69ef9823705c/)
-- [軟體SIP電話linphone](https://jenhaoyang.github.io/uncategorized/a018c46adba7/)
 <!-- BLOG-POST-LIST:END -->
 
 
