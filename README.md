@@ -7,9 +7,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Ubuntu無螢幕firefox無法使用解法](https://jenhaoyang.github.io/uncategorized/9a45c0e7842f/)
+- [const修飾閱讀方法](https://jenhaoyang.github.io/uncategorized/9a6814cf006c/)
 - [cmake google test配置](https://jenhaoyang.github.io/uncategorized/11a0e92fb4e2/)
 - [Ubuntu加入WindowsAD](https://jenhaoyang.github.io/uncategorized/e592acfeb440/)
-- [使用gst-shark](https://jenhaoyang.github.io/uncategorized/b8eb9c8708b3/)
 <!-- BLOG-POST-LIST:END -->
 
 
