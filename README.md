@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [nvidia-tririon-inference-server-model-analyzer](https://jenhaoyang.github.io/uncategorized/f7bb94e239b3/)
+- [rclone](https://jenhaoyang.github.io/uncategorized/20ca6902f599/)
+- [fiftyone讀取dataset錯誤](https://jenhaoyang.github.io/uncategorized/4ebedce9ef9f/)
 - [VSCode_CMake_GoogleTest](https://jenhaoyang.github.io/uncategorized/023814fd3699/)
-- [Ubuntu無螢幕firefox無法使用解法](https://jenhaoyang.github.io/uncategorized/9a45c0e7842f/)
-- [const修飾閱讀方法](https://jenhaoyang.github.io/uncategorized/9a6814cf006c/)
-- [cmake google test配置](https://jenhaoyang.github.io/uncategorized/11a0e92fb4e2/)
 <!-- BLOG-POST-LIST:END -->
 
 
