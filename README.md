@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Dell iDRAC 本機設定IP](https://jenhaoyang.github.io/uncategorized/8a5aaf5d1891/)
+- [docker compose 建立MQTT server](https://jenhaoyang.github.io/uncategorized/94c4aa94893e/)
 - [nvidia-tririon-inference-server-model-analyzer](https://jenhaoyang.github.io/uncategorized/f7bb94e239b3/)
 - [rclone](https://jenhaoyang.github.io/uncategorized/20ca6902f599/)
-- [fiftyone讀取dataset錯誤](https://jenhaoyang.github.io/uncategorized/4ebedce9ef9f/)
-- [VSCode_CMake_GoogleTest](https://jenhaoyang.github.io/uncategorized/023814fd3699/)
 <!-- BLOG-POST-LIST:END -->
 
 
