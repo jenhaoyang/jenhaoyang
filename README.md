@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [digital ocean 設定密碼登入](https://jenhaoyang.github.io/uncategorized/59a1074486ea/)
 - [Dell iDRAC 本機設定IP](https://jenhaoyang.github.io/uncategorized/8a5aaf5d1891/)
 - [docker compose 建立MQTT server](https://jenhaoyang.github.io/uncategorized/94c4aa94893e/)
 - [nvidia-tririon-inference-server-model-analyzer](https://jenhaoyang.github.io/uncategorized/f7bb94e239b3/)
-- [rclone](https://jenhaoyang.github.io/uncategorized/20ca6902f599/)
 <!-- BLOG-POST-LIST:END -->
 
 
