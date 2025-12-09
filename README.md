@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [azure-blod作為硬碟儲存訓練照片](https://jenhaoyang.github.io/uncategorized/5d8cdb8e2dd0/)
 - [AI輔助開發](https://jenhaoyang.github.io/uncategorized/ca60cdff193a/)
 - [Ubuntu 網路除錯](https://jenhaoyang.github.io/uncategorized/cb365ff74f63/)
 - [digital ocean 設定密碼登入](https://jenhaoyang.github.io/uncategorized/59a1074486ea/)
-- [Dell iDRAC 本機設定IP](https://jenhaoyang.github.io/uncategorized/8a5aaf5d1891/)
 <!-- BLOG-POST-LIST:END -->
 
 
