@@ -7,9 +7,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [azure-blod作為硬碟儲存訓練照片](https://jenhaoyang.github.io/uncategorized/5d8cdb8e2dd0/)
+- [OpenWRT](https://jenhaoyang.github.io/uncategorized/5e2bbdea1b09/)
 - [AI輔助開發](https://jenhaoyang.github.io/uncategorized/ca60cdff193a/)
 - [Ubuntu 網路除錯](https://jenhaoyang.github.io/uncategorized/cb365ff74f63/)
-- [digital ocean 設定密碼登入](https://jenhaoyang.github.io/uncategorized/59a1074486ea/)
 <!-- BLOG-POST-LIST:END -->
 
 
